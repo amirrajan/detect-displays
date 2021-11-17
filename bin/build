@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+clang main.c -Wno-deprecated-declarations -framework CoreGraphics -framework IOKit
